@@ -17,6 +17,9 @@ However, one of the biggest limitations of content-based recommendation systems 
   ## Data
   
   I got the data from [kaggle](https://www.kaggle.com/imuhammad/audio-features-and-lyrics-of-spotify-songs). The dataset contains over 18 thousand songs from 6 thousands artists and also has Spotify audio features (accousticness, instrumentalness, danceability etc.) , and lyrics.
+  <p align="center">
+  <img width="460" height="500" src="https://github.com/hilmikilickaya/song-recommendation/blob/master/img/genre.png">
+  </p>
 
   ## Tf-idf 
   TF-IDF is a statistical measure that evaluates how relevant a word is to a document in a collection of documents. This is done by multiplying two metrics: how many times a word appears in a document, and the inverse document frequency of the word across a set of documents.
