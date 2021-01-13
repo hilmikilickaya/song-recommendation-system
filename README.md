@@ -18,8 +18,8 @@ However, one of the biggest limitations of content-based recommendation systems 
   
   I got the data from [kaggle](https://www.kaggle.com/imuhammad/audio-features-and-lyrics-of-spotify-songs). The dataset contains over 18 thousand songs from 6 thousands artists and also has Spotify audio features (accousticness, instrumentalness, danceability etc.) , and lyrics.
                                  
-                                                      *Number of Songs per Genre*
   <p align="center">
+  <p>Number of Songs per Genre</p>
   <img width="460" height="500" src="https://github.com/hilmikilickaya/song-recommendation/blob/master/img/genre.png">
   </p>
 
