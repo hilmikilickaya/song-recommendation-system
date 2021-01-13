@@ -1,7 +1,7 @@
 # Song Recommendation System
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/hilmikilickaya/song-recommendation/blob/master/img/SongRecommender.jpg">
+  <img width="560" height="350" src="https://github.com/hilmikilickaya/song-recommendation/blob/master/img/SongRecommender.jpg">
   </p>
   
   ## Motivation
