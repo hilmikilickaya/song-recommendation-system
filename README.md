@@ -29,17 +29,18 @@ However, one of the biggest limitations of content-based recommendation systems 
   <img width="460" height="300" src="https://github.com/hilmikilickaya/song-recommendation/blob/master/img/lessbins_doc.png">
   </p>
   
-  | Recommendations for Lady Gaga - Just Dance  |
-  | --------------------------------------------|
-   The Black Keys - Howlin’ For You
-Heaven 17 - Let Me Go
-Dada Life - Feed The Dada 
-The Cranberries - When You’re Gone
-Louis Futon - Rewind 
-Glen Campbell - Southern Nights 
-Amber - This Is Your Night
-Little Mix - Hair
-Billie Eilish - 8 
+  <p align="center"> | Recommendations for Lady Gaga - Just Dance  |
+           | --------------------------------------------|
+           |The Black Keys - Howlin’ For You|
+           |Heaven 17 - Let Me Go|
+           |Dada Life - Feed The Dada| 
+           |The Cranberries - When You’re Gone|
+           |Louis Futon - Rewind |
+           |Glen Campbell - Southern Nights| 
+           |Amber - This Is Your Night|
+           |Little Mix - Hair|
+           |Billie Eilish - 8|
+</p>
 
 
   ## LDA 
