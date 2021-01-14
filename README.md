@@ -43,7 +43,7 @@ Billie Eilish - 8
 
 
   ## LDA 
-  Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents. Latent Dirichlet Allocation (LDA) is an example of topic model and is used to classify text in a document to a particular topic. It builds a topic per document model and words per topic model, modeled as Dirichlet distributions. I used 10 topics for my model.
+  Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents. Latent Dirichlet Allocation (LDA) is an example of topic model and is used to classify text in a document to a particular topic. It builds a topic per document model and words per topic model, modeled as Dirichlet distributions. There are examples of 10 topics for my model.
   
   <p align="center">
   <img width="900" height="400" src="https://github.com/hilmikilickaya/song-recommendation/blob/master/img/topicwords.png.png">
