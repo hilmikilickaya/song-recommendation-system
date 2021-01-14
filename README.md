@@ -29,7 +29,7 @@ However, one of the biggest limitations of content-based recommendation systems 
   <img width="460" height="300" src="https://github.com/hilmikilickaya/song-recommendation/blob/master/img/lessbins_doc.png">
   </p>
   
-  <p align="center"> | Recommendations for Lady Gaga - Just Dance  |
+ | Recommendations for Lady Gaga - Just Dance  |
            | --------------------------------------------|
            |The Black Keys - Howlin’ For You|
            |Heaven 17 - Let Me Go|
@@ -40,7 +40,7 @@ However, one of the biggest limitations of content-based recommendation systems 
            |Amber - This Is Your Night|
            |Little Mix - Hair|
            |Billie Eilish - 8|
-</p>
+
 
 
   ## LDA 
